@@ -1,0 +1,98 @@
+
+.main-logo {
+    padding: 35% 17%;
+    text-align: center;
+    font-size: 1.5rem;
+    color: #fada5e;
+}
+
+.yellow-button {
+    background-color: #fada5e;
+    color: #133257;
+    font-weight: 700;
+}
+
+#read-more a{
+    color: #555 !important;
+    text-decoration: underline;
+    font-size: 90%;
+}
+
+.squad-card {
+    height: 110px;
+    background-color: #fff ;
+    border-bottom: 2px solid #133257;
+}
+
+#playerImg {
+    height: 100%;
+}
+
+.squad {
+    font-size: 1rem;
+}
+
+.squad-card {
+    padding-left: 0 !important;
+}
+
+#playerNumber {
+    margin: 0 15px;
+}
+
+#playerPosition {
+    color: #555;
+}
+
+#home-button {
+    color: #133257;
+}
+
+.team-logo {
+    height: 50%;
+}
+
+.list-item--material__left, .list-item--material__center, .list-item--material__right {
+    padding: 3px !important;
+}
+
+.rank-left {
+    padding-left: 10px !important;
+}
+
+.rank-right {
+    padding-right: 10px !important;
+}
+
+.rank {
+    font-size: 90%;
+}
+
+.rank-year {
+    font-weight: 400;
+    font-size: 80%;
+    color: #555;
+}
+
+h6 {
+    margin-block-start: 0.8em;
+    margin-block-end: 0.5em;
+    font-style: italic;
+    color: #555;
+}
+
+.publish-date {
+    font-size: 110%;
+    font-weight: 700;
+    margin-block-end: 0em;
+}
+
+#playerNation, #playerPosition {
+    font-size: 80%;
+    color: #555;
+    font-style: italic;
+}
+
+#playerPosition {
+    font-weight: 700;
+}

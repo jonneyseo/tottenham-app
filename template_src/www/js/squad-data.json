@@ -1,0 +1,167 @@
+{
+"squad":[
+    {
+        "number": 1,
+        "img": "./img/squad/1.png",
+        "name": "Hugo Lloris",
+        "position": "GK",
+        "nation": "France"
+        },
+    { 
+        "number": 2,
+        "img": "./img/squad/2.png",
+        "name":"Matt Doherty",
+        "position":"DF",
+        "nation": "Ireland"
+        },
+    { 
+        "number": 3,
+        "img": "./img/squad/3.png",
+        "name":"Sergio Reguilion",
+        "position":"DF",
+        "nation": "Spain"
+        },
+    { 
+        "number": 4,
+        "img": "./img/squad/4.png",
+        "name":"Toby Alderweireld",
+        "position":"DF",
+        "nation": "Belgium"
+        },
+    { 
+        "number": 5,
+        "img": "./img/squad/5.png",
+        "name":"Pierre-Emile Hoibjerg",
+        "position":"MF",
+        "nation": "Denmark"
+        },
+    { 
+        "number": 6,
+        "img": "./img/squad/6.png",
+        "name":"Davinson Sanchez",
+        "position":"DF",
+        "nation": "Colombia"
+        },
+    { 
+        "number": 7,
+        "img": "./img/squad/7.png",
+        "name":"Heung-Min Son",
+        "position":"MF",
+        "nation": "South Korea"
+        },
+    { 
+        "number": 8,
+        "img": "./img/squad/8.png",
+        "name":"Harry Winks",
+        "position":"MF",
+        "nation": "England"
+        },
+    { 
+        "number": 9,
+        "img": "./img/squad/9.png",
+        "name":"Gareth Bale",
+        "position":"MF",
+        "nation": "Wales"
+        },
+    { 
+        "number": 10,
+        "img": "./img/squad/10.png",
+        "name":"Harry Kane",
+        "position":"FW",
+        "nation": "England"
+        },
+    { 
+        "number": 11,
+        "img": "./img/squad/11.png",
+        "name":"Erik Lamela",
+        "position":"MF",
+        "nation": "Argentina"
+        },
+    { 
+        "number": 12,
+        "img": "./img/squad/12.png",
+        "name":"Joe Hart",
+        "position":"GK",
+        "nation": "England"
+        },
+    {
+        "number": 15,
+        "img": "./img/squad/15.png",
+        "name": "Eric Dier",
+        "position": "DF",
+        "nation": "England"
+        },
+    { 
+        "number": 17,
+        "img": "./img/squad/17.png",
+        "name":"Mousa Sissoko",
+        "position":"MF",
+        "nation": "France"
+        },
+    { 
+        "number": 18,
+        "img": "./img/squad/18.png",
+        "name":"Giovani Lo Celso",
+        "position":"MF",
+        "nation": "Argentina"
+        },
+    { 
+        "number": 20,
+        "img": "./img/squad/20.png",
+        "name":"Dele Alli",
+        "position":"MF",
+        "nation": "England"
+        },
+    { 
+        "number": 22,
+        "img": "./img/squad/22.png",
+        "name":"Paulo Gazzaniga",
+        "position":"GK",
+        "nation": "Argentina"
+        },
+    { 
+        "number": 23,
+        "img": "./img/squad/23.png",
+        "name":"Steve Bergwijn",
+        "position":"MF",
+        "nation": "Netherlands"
+        },
+    { 
+        "number": 24,
+        "img": "./img/squad/24.png",
+        "name":"Serge Aurier",
+        "position":"DF",
+        "nation": "Ivory Cost"
+        },
+    { 
+        "number": 27,
+        "img": "./img/squad/27.png",
+        "name":"Lucas Moura",
+        "position":"MF",
+        "nation": "Brazil"
+        },
+    { 
+        "number": 28,
+        "img": "./img/squad/28.png",
+        "name":"Tanguy Ndombele",
+        "position":"MF",
+        "nation": "France"
+        },
+    { 
+        "number": 33,
+        "img": "./img/squad/33.png",
+        "name":"Ben Davies",
+        "position":"DF",
+        "nation": "Wales"
+        },
+    { 
+        "number": 45,
+        "img": "./img/squad/45.png",
+        "name":"Carlos Vinicius",
+        "position":"FW",
+        "nation": "Brazil"
+        }
+]
+}
+
+
